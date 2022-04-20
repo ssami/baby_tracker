@@ -1,3 +1,7 @@
+# Privacy 
+baby_tracker/*.pdf
+baby_tracker/*.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
